@@ -1,2 +1,2 @@
 # Amrendra-project
-Authoe - Amrendra Raghuvanshi
+Author - Amrendra Raghuvanshi
